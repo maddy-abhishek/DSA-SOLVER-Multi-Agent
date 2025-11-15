@@ -9,9 +9,9 @@ The project is containerized with Docker for smooth execution and contains modul
 
 ⚡ Autogen agents for:
 
-Code Execution
+ * Code Execution
 
-Problem Solving
+ * Problem Solving
 
 🛠️ Dockerized setup for consistent and portable execution.
 
