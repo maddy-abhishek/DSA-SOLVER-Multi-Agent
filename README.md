@@ -1,4 +1,4 @@
-DSA Solver 🚀
+##DSA Solver 🚀
 
 A DSA (Data Structures & Algorithms) problem solver built with Autogen, powered by Groq API with LLaMA model.
 The project is containerized with Docker for smooth execution and contains modular agents for solving and executing code efficiently.
